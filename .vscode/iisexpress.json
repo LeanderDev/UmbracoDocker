@@ -1,0 +1,6 @@
+{
+  "port": 18883,
+  "path": "c:\\Users\\geldole\\Documents\\Projects\\Umbraco Docker\\UmbracoCms.8.5.2",
+  "clr": "v4.0",
+  "protocol": "http"
+}
