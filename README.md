@@ -12,7 +12,7 @@ To run:
 docker build --force-rm -t umbracodockerimage .
 docker run -d -v "{Absolute path to the folder of the locally stored repo}:C:\inetpub\wwwroot" -P --name umbracodockercontainer umbracodockerimage
 
--then in order to browse your application
+- then in order to browse your application
 docker exec -it umbracodockersite ipconfig
 there you can copy and browse to the IPv4 Adress
 
